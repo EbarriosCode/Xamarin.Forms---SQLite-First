@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SQLite.NuevoItem"
+             Title="Nueva Tarea">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+        Margin="20">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+            <Entry 
+                x:Name="nombreEntry"
+                Placeholder="Tarea"
+                Grid.ColumnSpan="2"/>
+
+            <DatePicker 
+                x:Name="fechaDatePicker"
+                Grid.Row="1"/>
+
+            <TimePicker
+                x:Name="horaTimePicker"
+                Grid.Row="1"
+                Grid.Column="1"/>
+
+            <Button
+                Text="Guardar"
+                BackgroundColor="Teal"
+                TextColor="White"
+                Grid.Row="2"
+                Grid.ColumnSpan="2"
+                Clicked="Handle_Clicked"/>
+        </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

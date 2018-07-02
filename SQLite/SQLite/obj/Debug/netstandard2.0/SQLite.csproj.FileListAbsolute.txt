@@ -1,0 +1,9 @@
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.deps.json
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.dll
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.pdb
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csproj.CoreCompileInputs.cache
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfoInputs.cache
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfo.cs
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.dll
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.pdb
+c:\users\ebarr\source\repos\SQLite\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csprojAssemblyReference.cache
